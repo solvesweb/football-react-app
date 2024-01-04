@@ -34,9 +34,8 @@ Este proyecto utiliza React como biblioteca de JavaScript, Tailwind CSS para est
 
 Ejecuta el proyecto en modo de desarrollo:
 
-    ```bash
+    
     yarn run dev
-    ```
 
 Visita http://localhost:3000 en tu navegador.
 
@@ -44,9 +43,8 @@ Visita http://localhost:3000 en tu navegador.
 
 Genera una versión optimizada para producción:
 
-    ```bash
+    
     yarn run build
-    ```
 
 ## Contribuir
 
