@@ -1,0 +1,64 @@
+{
+  "leagues": [
+    {
+      "id": 1,
+      "name": "Premier League",
+      "logo": "https://paladarnegro.net/escudoteca/ligas/ligas/img/inglaterra.jpg",
+      "teams": [
+        { "position": 1, "name": "Manchester City", "points": 89 },
+        { "position": 2, "name": "Liverpool", "points": 86 },
+        { "position": 3, "name": "Chelsea", "points": 70 },
+        { "position": 4, "name": "Tottenham Hotspur", "points": 68 },
+        { "position": 5, "name": "Arsenal", "points": 66 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "La Liga",
+      "logo": "https://paladarnegro.net/escudoteca/ligas/ligas/img/espana.jpg",
+      "teams": [
+        { "position": 1, "name": "Real Madrid", "points": 88 },
+        { "position": 2, "name": "FC Barcelona", "points": 75 },
+        { "position": 3, "name": "Atlético de Madrid", "points": 70 },
+        { "position": 4, "name": "Sevilla FC", "points": 64 },
+        { "position": 5, "name": "Real Betis", "points": 61 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Serie A",
+      "logo": "https://paladarnegro.net/escudoteca/ligas/ligas/img/italia.jpg",
+      "teams": [
+        { "position": 1, "name": "AC Milan", "points": 80 },
+        { "position": 2, "name": "Inter Milan", "points": 78 },
+        { "position": 3, "name": "Napoli", "points": 73 },
+        { "position": 4, "name": "Juventus", "points": 69 },
+        { "position": 5, "name": "Lazio", "points": 64 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bundesliga",
+      "logo": "https://paladarnegro.net/escudoteca/ligas/ligas/img/alemania.jpg",
+      "teams": [
+        { "position": 1, "name": "Bayern Munich", "points": 79 },
+        { "position": 2, "name": "Borussia Dortmund", "points": 72 },
+        { "position": 3, "name": "Bayer Leverkusen", "points": 61 },
+        { "position": 4, "name": "RB Leipzig", "points": 58 },
+        { "position": 5, "name": "Union Berlin", "points": 55 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ligue 1",
+      "logo": "https://paladarnegro.net/escudoteca/ligas/ligas/img/francia.jpg",
+      "teams": [
+        { "position": 1, "name": "Paris Saint-Germain", "points": 83 },
+        { "position": 2, "name": "Marseille", "points": 68 },
+        { "position": 3, "name": "Monaco", "points": 65 },
+        { "position": 4, "name": "Rennes", "points": 62 },
+        { "position": 5, "name": "Nice", "points": 60 }
+      ]
+    }
+  ]
+}
